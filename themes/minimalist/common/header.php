@@ -24,6 +24,7 @@
     queue_css_url('//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic');
     queue_css_file(array('iconfonts','style'));
     queue_css_file(array('neatline_local'));
+    queue_css_file(array('local'));
     echo head_css();
     ?>
 

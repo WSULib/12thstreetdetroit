@@ -44,7 +44,7 @@ body {
 	margin-bottom:0px;
 }
 #site-title a {
-	color: rgb(85, 71, 65);
+	color: rgb(194, 98, 37);
 }
 
 #search-container {
@@ -57,11 +57,25 @@ body {
 
 footer{
 	background-color:rgba(255,255,255,.9);
-	padding: 5px 20px 5px 20px;
+	padding: 20px 20px 5px 20px;
 	margin-top:5px;
 	border: none;
+	margin-bottom:20px;
 }
 
 #wrap {
 	max-width: 90%;
+}
+
+#bottom-nav {
+	display:none;
+}
+
+#top-nav .nav-menu .nav-item {
+	background-color: #ededed;
+}
+
+#top-nav .nav-menu .active a {
+	/*color: rgb(0, 46, 94);*/
+	background-color:rgb(0, 46, 94);
 }

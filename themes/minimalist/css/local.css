@@ -1,0 +1,36 @@
+body {
+	background: url("img/highway_background_edit.jpg") no-repeat fixed center;
+}
+
+#top-nav .nav-menu {
+	background-color:rgba(0,0,0,0);
+}
+
+#content {
+	background-color:rgba(255,255,255,.9);
+	padding:20px;
+	margin-top:5px;
+}
+
+#exhibit-pages.full {
+	border: none;
+	margin-top:10px;
+
+}
+
+#site-title {
+	background-color:rgba(255,255,255,.9);
+	padding:10px;
+	margin-bottom:0px;
+}
+#site-title a {
+	color: #0C5449;
+}
+
+#search-container {
+	/*background-color:rgba(255,255,255,.9);	*/
+	padding:10px;
+	margin-bottom:0px;
+	margin-top:19px;
+	padding:17px;
+}

@@ -427,7 +427,7 @@ th {
 /* Layout */
 #wrap {
   *zoom: 1;
-  max-width: 90%;
+  max-width: 95%;
   _width: 59em;
   padding-left: 1em;
   padding-right: 1em;
@@ -754,7 +754,7 @@ a:focus {
   color: #5C3F8D;
 }
 a:hover {
-  color: #c170d0;
+  color: #FFE473;
 }
 a:active {
   color: #BE75CB;
@@ -1593,7 +1593,7 @@ body.files .item-file {
   margin: 0;
 }
 #exhibit-pages.full #secondary-nav ul .current a {
-  background-color: #7453a9;
+  background-color: #226359;
   color: white;
 }
 #exhibit-pages.full #secondary-nav ul li {

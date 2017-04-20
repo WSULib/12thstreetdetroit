@@ -1,3 +1,19 @@
+/* palette
+
+brown
+rgb(85, 71, 65)
+
+orange
+rgb(194, 98, 37)
+
+yellow
+rgb(205, 161, 41)
+
+blue
+rgb(0, 46, 94)
+
+*/
+
 body {
 	/*background: url("img/highway_background_edit.jpg") no-repeat fixed center;*/
 	background-image: url("img/highway_background_edit.jpg");
@@ -28,7 +44,7 @@ body {
 	margin-bottom:0px;
 }
 #site-title a {
-	color: #0C5449;
+	color: rgb(85, 71, 65);
 }
 
 #search-container {

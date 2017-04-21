@@ -116,3 +116,11 @@ footer{
 	background-color: rgb(61,61,61);
 	margin-bottom:0px;
 }
+
+#exhibit-pages.full #secondary-nav .exhibit-title {
+	color:rgb(205, 161, 41);
+}
+
+#exhibit-pages.full #secondary-nav .exhibit-title:hover {
+	color:rgb(0, 46, 94);
+}

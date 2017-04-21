@@ -79,3 +79,34 @@ footer{
 	/*color: rgb(0, 46, 94);*/
 	background-color:rgb(0, 46, 94);
 }
+
+#exhibit-page-navigation .current-page {
+	background-color: transparent;
+	color: rgb(0, 46, 94);
+}
+
+#exhibit-page-navigation #exhibit-nav-next, #exhibit-page-navigation #exhibit-nav-prev {
+	background-color: #ededed;
+	text-align: center;
+	padding:10px;
+}
+
+#exhibit-page-navigation #exhibit-nav-next a, #exhibit-page-navigation #exhibit-nav-prev a {
+	color:rgb(0, 46, 94);
+}
+
+.exhibits.show #exhibit-page-navigation #exhibit-nav-next, .exhibits.show #exhibit-page-navigation #exhibit-nav-prev {
+	width:30%;
+}
+
+.exhibits.show #exhibit-page-navigation #exhibit-nav-up {
+	width:30%;
+	clear:none;
+	background-color: rgb(205, 161, 41);
+	color:white;
+	padding-bottom:5px;
+}
+
+.exhibits.show #exhibit-page-navigation #exhibit-nav-up span {
+	color:white;
+}

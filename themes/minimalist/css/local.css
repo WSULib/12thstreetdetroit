@@ -42,6 +42,7 @@ body {
 	background-color:rgba(237,237,237,.6);
 	padding:10px;
 	margin-bottom:0px;
+	margin-top:5px;
 }
 #site-title a {
 	color: rgb(194, 98, 37);
@@ -51,7 +52,7 @@ body {
 	/*background-color:rgba(255,255,255,.9);	*/
 	padding:10px;
 	margin-bottom:0px;
-	margin-top:19px;
+	margin-top:3px;
 	padding:17px;
 }
 
@@ -96,11 +97,11 @@ footer{
 }
 
 .exhibits.show #exhibit-page-navigation #exhibit-nav-next, .exhibits.show #exhibit-page-navigation #exhibit-nav-prev {
-	width:30%;
+	width:33%;
 }
 
 .exhibits.show #exhibit-page-navigation #exhibit-nav-up {
-	width:30%;
+	width:33%;
 	clear:none;
 	background-color: rgb(205, 161, 41);
 	color:white;
@@ -109,4 +110,9 @@ footer{
 
 .exhibits.show #exhibit-page-navigation #exhibit-nav-up span {
 	color:white;
+}
+
+#custom-header {
+	background-color: rgb(61,61,61);
+	margin-bottom:0px;
 }

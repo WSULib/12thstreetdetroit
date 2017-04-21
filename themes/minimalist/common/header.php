@@ -46,6 +46,8 @@
 
             <?php echo theme_header_image(); ?>
 
+            <div id="custom-header"><a href="https://reuther.wayne.edu/"><img src="/12thstreetdetroit/themes/minimalist/css/img/reuther_logo.jpg"/></a></div>
+
             <div id="site-title"><?php echo link_to_home_page(theme_logo()); ?></div>
 
             <div id="search-container" role="search">

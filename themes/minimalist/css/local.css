@@ -65,7 +65,7 @@ footer{
 }
 
 #wrap {
-	max-width: 90%;
+	max-width: 80%;
 }
 
 #bottom-nav {
@@ -114,6 +114,7 @@ footer{
 
 #custom-header {
 	background-color: rgb(61,61,61);
+	margin-top:5px;
 	margin-bottom:0px;
 }
 

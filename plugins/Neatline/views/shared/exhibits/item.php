@@ -9,14 +9,14 @@
 
 ?>
 
-<!-- Texts. -->
-<?php echo all_element_texts('item'); ?>
-
 <!-- Files. -->
 <?php if (metadata('item', 'has files')): ?>
   <h3><?php echo __('Files'); ?></h3>
   <?php echo files_for_item(); ?>
 <?php endif; ?>
+
+<!-- Texts. -->
+<?php echo all_element_texts('item'); ?>
 
 <hr />
 

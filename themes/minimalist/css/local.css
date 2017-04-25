@@ -87,13 +87,13 @@ footer{
 }
 
 #exhibit-page-navigation #exhibit-nav-next, #exhibit-page-navigation #exhibit-nav-prev {
-	background-color: #ededed;
+	background-color: rgb(205, 161, 41);
 	text-align: center;
 	padding:10px;
 }
 
 #exhibit-page-navigation #exhibit-nav-next a, #exhibit-page-navigation #exhibit-nav-prev a {
-	color:rgb(0, 46, 94);
+	color:white;
 }
 
 .exhibits.show #exhibit-page-navigation #exhibit-nav-next, .exhibits.show #exhibit-page-navigation #exhibit-nav-prev {
@@ -103,13 +103,12 @@ footer{
 .exhibits.show #exhibit-page-navigation #exhibit-nav-up {
 	width:33%;
 	clear:none;
-	background-color: rgb(205, 161, 41);
-	color:white;
+	background-color: #ededed;
 	padding-bottom:5px;
 }
 
 .exhibits.show #exhibit-page-navigation #exhibit-nav-up span {
-	color:white;
+	color:rgb(0, 46, 94);
 }
 
 #custom-header {

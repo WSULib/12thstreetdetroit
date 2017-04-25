@@ -10,3 +10,12 @@ body.neatline.show div#neatline-narrative, body.neatline.fullscreen div#neatline
 .exhibit-block.layout-neatline iframe {
 	height: 1000px;
 }
+
+#neatline #simile {
+	width:50%;
+	height:40%;
+}
+
+#simile .timeline-event-label {
+	color:none !important;
+}

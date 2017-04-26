@@ -124,3 +124,21 @@ footer{
 #exhibit-pages.full #secondary-nav .exhibit-title:hover {
 	color:rgb(0, 46, 94);
 }
+
+#next-exhibit {
+	width:33%;
+	background-color: rgb(85, 71, 65);
+    text-align: center;
+    padding: 10px;
+    float:right;
+    margin-top:8px;
+}
+
+#next-exhibit a {
+	color:white;
+}
+
+
+
+
+

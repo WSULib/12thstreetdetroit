@@ -40,15 +40,15 @@ echo head(array(
 
         // determine what exhibit is next
         if (strpos($_SERVER['REQUEST_URI'], "beforeunrest") !== false){
-            $next_exhibit_title = "Part 2, July 23 - August 4, 1967";
+            $next_exhibit_title = "Part 2, July 23 - August 4, 1967 →";
             $next_exhibit_url = "/12thstreetdetroit/exhibits/show/july23_aug41967";
         }
         if (strpos($_SERVER['REQUEST_URI'], "july23_aug41967") !== false){
-            $next_exhibit_title = "Part 3, Aftermath of Unrest: 1967-1974";
+            $next_exhibit_title = "Part 3, Aftermath of Unrest: 1967-1974 →";
             $next_exhibit_url = "/12thstreetdetroit/exhibits/show/aftermathofunrest";
         }
         if (strpos($_SERVER['REQUEST_URI'], "aftermathofunrest") !== false){
-            $next_exhibit_title = "Suggested Reading";
+            $next_exhibit_title = "Suggested Reading →";
             $next_exhibit_url = "/12thstreetdetroit/suggested_reading";
         }
 
